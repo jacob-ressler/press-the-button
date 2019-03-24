@@ -14,7 +14,9 @@ Executable JAR files for all versions are available under the `_releases` direct
 
 To launch the application, simply double-click the file. The following command can also be used to launch the application from a terminal:
 
-`java -jar "PressTheButton(v1.0).jar"`
+```bash
+java -jar "PressTheButton(v1.0).jar"
+```
 
 _**Note** that the version number in the command should be identical to version number of the JAR file you have downloaded for it to work properly._
 
@@ -22,11 +24,15 @@ _**Note** that the version number in the command should be identical to version 
 
 After downloading the `src` folder, use the following command to generate the class files:
 
-`javac ButtonGame.java`
+```bash
+javac ButtonGame.java
+```
 
 To launch the application, use the command:
 
-`java ButtonGame`
+```bash
+java ButtonGame
+```
 
 ## Project Information
 
